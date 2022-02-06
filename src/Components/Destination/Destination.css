@@ -1,0 +1,179 @@
+.destination-div{
+    background-image: url("../../assets/destination/background-destination-desktop.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+}
+
+.destination-div-container{
+    flex: 6;
+    display: flex;
+}
+
+.destination-div-container-wrap{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+}
+
+.destination-div-container-wrap-buttom-wrap{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.destination-div-container-wrap-top{
+    width: 100%;
+    height: 100%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.destination-div-container-wrap-buttom{
+    width: 100%;
+    flex: 4;
+    display: flex;
+}
+
+.destination-div-container-wrap-buttom-wrap{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.destination-div-container-wrap-buttom-wrap-left{
+    flex: 1;
+    padding-left: 180px;
+}
+
+.destination-div-container-wrap-buttom-wrap-right{
+    flex: 1;
+    padding-right: 40px;
+}
+
+.destination-div-container-wrap-buttom-wrap-left-wrap-img{
+    height: 330px;
+    width: 330px;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    padding-right: 60px;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-top{
+    display: flex;
+    flex: 5;
+    flex-direction: column;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-mid{
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom{
+    flex: 2;
+}
+
+.destination-div-container-wrap-buttom-wrap-items{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.destination-div-container-wrap-buttom-wrap-top-p{
+    flex: 2;
+    padding-right: 20px;
+}
+
+.destination-div-container-wrap-buttom-wrap-title{
+    flex: 2;
+    font-size: 70px;
+    padding-left: 5px;
+}
+
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-moon{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 100;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-mars{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 100;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-europa{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 100;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-titan{
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 100;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-top-p-p{
+    font-weight: 150;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-mid-hr{
+    color: gainsboro;
+    opacity: 0.5;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom-wrap{
+    display: flex;
+    height: 100%;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom-wrap-h3{
+    font-size: 9px;
+    font-weight: 100px;
+    display: flex;
+    flex-direction: column;
+    color: gainsboro;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom-wrap-left{
+    flex: 1;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom-wrap-right{
+    flex: 1;
+}
+
+.destination-div-container-wrap-buttom-wrap-right-wrap-buttom-wrap-span{
+    font-size: 23px;
+    font-weight: 30;
+}
