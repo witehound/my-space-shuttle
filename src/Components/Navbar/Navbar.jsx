@@ -30,9 +30,11 @@ function Navbar() {
                </Link>
             </h3>
             <h3 className="nav-bar-items">02
-              <span className="nav-bar-items-span">
-                CREW
-              </span>
+                <Link to='/Spacelaunch'>
+                 <span className="nav-bar-items-span">
+                  LAUNCH 
+                 </span>
+                </Link>
             </h3>
             <h3 className="nav-bar-items">03
                <span className="nav-bar-items-span">
